@@ -1,0 +1,1 @@
+[05-Mar-2019 18:39:18 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Websitecontroller::myaccount() in /home/jolleystravelwor/public_html/jolley/app/Http/Controllers/Websitecontroller.php on line 121
